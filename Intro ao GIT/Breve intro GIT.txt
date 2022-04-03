@@ -1,0 +1,3 @@
+O GIT foi criado pelo Linus Torvalds, mesmo criador do kernel linux, ele mantem seus projetos na máquina do usuários.
+O GIT funciona da seguinte forma: Ao invés de armazenar as diferenças (diffs), o Git armazena uma "cópia" dos dados atuais (snapshots). Graças a isso, o Git parece mais um sistema de arquivos que um VCS (Sistema que guarda as mudanças feitas num arquivo ou num grupo de arquivos no decorrer do tempo, assim você pode ir para uma versão arbitrária do arquivo e caso algo dê errado, você pode voltar e usar uma versão anterior.
+GITHUB funciona como um "backup" dos seus repósitórios, ou seja, uso na nuvem, podendo ser baixados e feitos uploads dos projetos do GIT(GIT = LOCAL). 
